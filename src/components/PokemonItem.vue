@@ -76,6 +76,11 @@ export default {
 
 <style scoped>
 #content {
-    margin-bottom: 5px;
+    width: 250px;
+    height: 250px;
+    margin-bottom: 12px;
+}
+.card{
+    background-color: #A9A9A9;
 }
 </style>
