@@ -1,4 +1,5 @@
-# pokedex
+# pokede.
+- Projeto criado consumindo API de pokemons da primeira geração. Utilização do axios para fazer requisições.
 
 ## Project setup
 ```
